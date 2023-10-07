@@ -1,1 +1,1 @@
-# simple_shell
+Simple_shell Project by Eagilwe. K. Ntsimanyana &
